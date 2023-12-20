@@ -132,15 +132,8 @@ dayOfWeekTable = [timetable2table(newTable) weekOfYearTable];
 dayOfWeekTable = renamevars(dayOfWeekTable, "Var1", "Consumption");
 %% 
 
-% Task 8: Explore the potential of integrating a solar power plant by analyzing solar GHI data.
-creativity
-plot()
-plotting solar ghi and one for electrical consumption
-labling 
-changing the scale to logaritmic
-correlation
 
-github
+% task 8 is made in task 3
 
 %% 
 figure;
